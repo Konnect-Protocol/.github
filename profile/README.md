@@ -1,3 +1,6 @@
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=60&pause=1000&color=FFDDEA&background=000000F6&center=true&vCenter=true&width=804&height=600&lines=Konnect+Protocol+!)](https://git.io/typing-svg)
+
 ## Hi there 👋
 
 
